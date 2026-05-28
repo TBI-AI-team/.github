@@ -4,7 +4,7 @@ Het AI-team ondersteunt de werkmaatschappijen van TBI bij het verkennen, bouwen 
 
 ## Wat vind je hier?
 
-- **[tbi-ai-backlog](https://github.com/TBI-AI-team/tbi-ai-backlog)** — de centrale backlog van AI-initiatieven uit alle werkmaatschappijen, met een boardroom-dashboard op [tbi-ai-team.github.io/tbi-ai-backlog](https://tbi-ai-team.github.io/tbi-ai-backlog/).
+- **[tbi-ai-backlog](https://github.com/TBI-AI-team/tbi-ai-portaal)** 
 
 ## Een initiatief indienen
 
